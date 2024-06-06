@@ -1,0 +1,14 @@
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\obj\Debug\net8.0\EXEMPLOFUNDAMENTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\obj\Debug\net8.0\EXEMPLOFUNDAMENTOS.AssemblyInfoInputs.cache
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\obj\Debug\net8.0\EXEMPLOFUNDAMENTOS.AssemblyInfo.cs
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\obj\Debug\net8.0\EXEMPLOFUNDAMENTOS.csproj.CoreCompileInputs.cache
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\bin\Debug\net8.0\EXEMPLOFUNDAMENTOS.exe
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\bin\Debug\net8.0\EXEMPLOFUNDAMENTOS.deps.json
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\bin\Debug\net8.0\EXEMPLOFUNDAMENTOS.runtimeconfig.json
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\bin\Debug\net8.0\EXEMPLOFUNDAMENTOS.dll
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\bin\Debug\net8.0\EXEMPLOFUNDAMENTOS.pdb
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\obj\Debug\net8.0\EXEMPLOFUNDAMENTOS.dll
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\obj\Debug\net8.0\refint\EXEMPLOFUNDAMENTOS.dll
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\obj\Debug\net8.0\EXEMPLOFUNDAMENTOS.pdb
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\obj\Debug\net8.0\EXEMPLOFUNDAMENTOS.genruntimeconfig.cache
+C:\Users\estagiario04.ti\Desktop\DIO\.NET\EXEMPLOFUNDAMENTOS\obj\Debug\net8.0\ref\EXEMPLOFUNDAMENTOS.dll

@@ -1,0 +1,7 @@
+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
+
+
+token de acesso para autenticacao quando for clonar um repo 
+
+
+se necessario criar novamente no settings do github, caso contrario manter sempre salvo par auso ou armazenar no git credentials
